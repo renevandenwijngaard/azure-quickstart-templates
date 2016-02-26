@@ -26,7 +26,7 @@
                 "description": "The password for the administrator account of the new VM and the domain"
             }
         },
-        "numberOfRdshInstances": {
+        "Aantal Terminalservers": {
             "type": "int",
             "defaultValue": 2,
             "metadata": {
